@@ -1,0 +1,28 @@
+# renderer artifacts
+videos/
+.frames/
+node_modules/
+package-lock.json
+package.json
+
+# Flutter
+code/.dart_tool/
+code/.flutter-plugins
+code/.flutter-plugins-dependencies
+code/.packages
+code/build/
+code/.idea/
+code/.vscode/
+code/ios/Pods/
+code/ios/Flutter/Flutter.framework/
+code/ios/Flutter/Flutter.podspec
+code/ios/Flutter/Generated.xcconfig
+code/android/.gradle/
+code/android/local.properties
+code/macos/Pods/
+code/pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
