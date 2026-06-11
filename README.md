@@ -155,9 +155,6 @@ cp code/lib/widgets/animated_fab.dart ~/my-app/lib/
 
 Each file is a self-contained widget. Drop it in, import it, use it.
 
-## Posting these on social
-
-`CAPTIONS.md` includes a ready-to-paste caption for every reel — across Instagram, YouTube Shorts, and Twitter/X — with hashtags, hooks, and a 36-day posting schedule.
 
 ## License
 
