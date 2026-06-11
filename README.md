@@ -1,4 +1,4 @@
-# Flutter Design Reels — 100 widgets, screens, animations & tips
+# Flutter Designs — 100 widgets, screens, animations & tips
 
 > A pack of 100 Flutter UI designs — beautifully animated, ready to copy, free to use. Each design ships with its own video reel and source code.
 
