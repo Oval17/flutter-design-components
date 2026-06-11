@@ -2,11 +2,11 @@
 /**
  * Flutter Reels  ·  bulk renderer  (v2, disk-buffered)
  *
- * Renders 36 × 10s 1080×1920 MP4s from flutter-reels.html.
+ * Renders 100 × 10s 1080×1920 MP4s from flutter-reels.html.
  * Captures CDP screencast frames to a temp dir, then encodes
  * each reel with ffmpeg.  No piping = no EPIPE.
  *
- *   node render.js              # all 36
+ *   node render.js              # all 100
  *   node render.js 0            # just reel #1
  *   node render.js 0 5          # reels 1..6
  *
