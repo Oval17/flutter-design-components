@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # One-command renderer for Flutter Reels.
-# Installs deps and renders all 36 reels into ./videos as 10s MP4s.
+# Installs deps and renders all 100 reels into ./videos as 10s MP4s.
 
 set -e
 cd "$(dirname "$0")"
